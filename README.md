@@ -2,7 +2,7 @@
 
 Check out my portfolio www.j1nma.com
 
-- 🌱 I’m currently studying for the AWS Solutions Architect Certification!
+- 🌱 I’ve completed AWS's Solutions Architect and Cloud Practitioner Certifications!
 - 💬 Ask me about my productivity setup, Lo-Fi music or Formula 1 🏎️!
 - 📫 How to reach me: alonsojuanma8@gmail.com
 

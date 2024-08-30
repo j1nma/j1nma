@@ -1,10 +1,6 @@
 ### Welcome, I'm Juan 👋
 
-Check out my portfolio www.j1nma.com
-
-- 🌱 I’ve completed AWS's Solutions Architect and Cloud Practitioner Certifications!
-- 💬 Ask me about my productivity setup, Lo-Fi music or Formula 1 🏎️!
-- 📫 How to reach me: alonsojuanma8@gmail.com
+Check out my portfolio at www.j1nma.com
 
 
 <!--

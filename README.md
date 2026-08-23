@@ -1,4 +1,4 @@
-### Welcome, I'm Juan 👋
+### Hey, I'm Juan 👋
 
 Check out my portfolio at www.j1nma.com
 
